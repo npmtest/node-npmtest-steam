@@ -1,4 +1,7 @@
-# test coverage for  [steam (v1.4.0)](https://github.com/seishun/node-steam#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-steam.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-steam) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-steam.svg)](https://travis-ci.org/npmtest/node-npmtest-steam)
+# npmtest-steam
+
+#### basic test coverage for  [steam (v1.4.0)](https://github.com/seishun/node-steam#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-steam.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-steam) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-steam.svg)](https://travis-ci.org/npmtest/node-npmtest-steam)
+
 #### Lets you interface with Steam without running an actual Steam client
 
 [![NPM](https://nodei.co/npm/steam.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/steam)
